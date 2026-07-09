@@ -35,6 +35,8 @@ I'm passionate about building web applications that solve real-world problems. I
 ### Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat-square&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Database
@@ -111,12 +113,13 @@ Modern blogging platform with authentication and responsive design.
 **Role:** Web Developer / Backend Developer
 
 **Contribution:**
-- Assisted in website development and maintenance
-- Worked on backend functionality
-- Helped improve system features and user experience
+- Assisted in developing and maintaining the website
+- Developed backend functionality using Laravel and Filament
+- Created and managed admin panel features
+- Improved system features and user experience
 
 **Technologies:**
-`Laravel` `Filament` `MySQL` `TailwindCSS`
+`Laravel` `Filament` `TailwindCSS` `MySQL`
 
 🌐 Visit Website:
 https://rnp-jewelry.com/
