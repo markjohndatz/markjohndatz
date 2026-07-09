@@ -51,6 +51,12 @@ I'm passionate about building web applications that solve real-world problems. I
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
 
+
+### Backend & CMS
+
+![Filament](https://img.shields.io/badge/Filament_Admin_Panel-FFAA00?style=flat-square)
+![Laravel Blade](https://img.shields.io/badge/Laravel_Blade-FF2D20?style=flat-square)
+
 ---
 
 # 🚀 Featured Projects
