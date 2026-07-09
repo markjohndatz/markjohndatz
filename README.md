@@ -106,7 +106,20 @@ Modern blogging platform with authentication and responsive design.
 
 ### 💎 RNP Jewelry and Metalcrafts
 
-Backend Development
+**Live Website:** https://rnp-jewelry.com/
+
+**Role:** Web Developer / Backend Developer
+
+**Contribution:**
+- Assisted in website development and maintenance
+- Worked on backend functionality
+- Helped improve system features and user experience
+
+**Technologies:**
+`Laravel` `Filament` `MySQL` `TailwindCSS`
+
+🌐 Visit Website:
+https://rnp-jewelry.com/
 
 ### 🆔 ID System
 
